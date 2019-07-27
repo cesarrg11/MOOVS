@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  MOOVSTesting
+
+  Created by Cesar Rioja G on 7/21/19.
+  Copyright © 2019 Cesar Rioja G. All rights reserved.
+*/
+
+//Home
+movies = "Peliculas";
+tvShow = "Series";
+popular = "Popular";
+topRated = "Lo mejor";
+upcoming = "Estrenos";
+voteAverage = "Promedio de votos";

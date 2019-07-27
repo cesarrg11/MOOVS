@@ -1,0 +1,16 @@
+PODS:
+  - YouTubePlayer (0.4.0)
+
+DEPENDENCIES:
+  - YouTubePlayer
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - YouTubePlayer
+
+SPEC CHECKSUMS:
+  YouTubePlayer: 028451f6772f372d4759866db99824c676ac1473
+
+PODFILE CHECKSUM: 56e0486ffdba59989cd068ef6137043b6926010b
+
+COCOAPODS: 1.7.3

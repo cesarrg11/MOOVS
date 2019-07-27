@@ -1,0 +1,13 @@
+{
+     "appName":"MOOVS",
+     "version":"1.0",
+     "environment":"Production",
+     "imagesMoviewDBEndpoint":"https://image.tmdb.org/t/p/w500/",
+     "theMovieDBAPIKey":"70d6b9769dd26ee41626f5b6ae4015fd",
+     "theMovieDBEndpoint":"https://api.themoviedb.org/3/",
+     "popularEndpoint":"popular",
+     "topRatedEndpoint":"top_rated",
+     "upcomingEndpoint":"upcoming",
+     "genreEndpoint":"genre",
+     "videosEndpoint":"videos"
+}
